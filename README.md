@@ -1,2 +1,3 @@
 # TianChi_Competition
-Competition code from Alibaba-TianChi-Platform
+The code of the Ali Tianchi competition I participated in
+https://tianchi.aliyun.com/competition/entrance/531830
